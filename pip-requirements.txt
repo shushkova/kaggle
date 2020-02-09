@@ -2,9 +2,6 @@ numpy
 pandas
 sklearn
 nltk
-re
-os
-codecs
 matplotlib
 pymorphy2
 gensim
