@@ -6,3 +6,5 @@ matplotlib
 pymorphy2
 gensim
 smart_open
+torch
+tqdm
